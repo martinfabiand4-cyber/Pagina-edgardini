@@ -3,6 +3,8 @@ import { Moon, Sun, Menu, X } from 'lucide-react'
 
 const links = [
   { href: '#academico', label: 'Académico' },
+  { href: '#noticias', label: 'Noticias' },
+  { href: '#recursos', label: 'Recursos' },
   { href: '#portal', label: 'Portal Alumnos' },
   { href: '#admision', label: 'Admisión' },
 ]
